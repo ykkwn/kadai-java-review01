@@ -9,7 +9,7 @@ public class Review01 {
     }
 
     public static int taxMethod(int price) {
-        int tax = (int)(price * (0.1));
+        int tax = (int)(price * (0.08));
         return tax;
     }
 }
